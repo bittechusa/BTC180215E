@@ -1,0 +1,7 @@
+this is git class
+cd--->change directory
+pwd---> present work directory
+ls---> to see list of file
+vi---editor
+touch--> make a file
+mkdir---> make a folder
