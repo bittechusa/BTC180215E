@@ -5,3 +5,4 @@ ls---> to see list of file
 vi---editor
 touch--> make a file
 mkdir---> make a folder
+cat ---> to view file
